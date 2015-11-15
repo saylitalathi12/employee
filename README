@@ -1,0 +1,7 @@
+PROJECT NAME:EMPLOYEE MANAGEMENT SYSTEM.
+
+NAME:TALATHI SAYLI SHRIKANT.
+
+ROLLNO.:141503014.
+
+	This project is about management of employee records.It has two sessions employee and manager session.It needs to enter appropriate username and password to login.Manager and employee has different authorities of functions.Manager can add,update,delete records about employee where as employee can only view the records he cannot add or modify records.manager also has functions like sort data on name and id also he can seperately calculate salary of every employee and also can view salaries of all employees.In such a way all the data is managed by different file handling functions.
